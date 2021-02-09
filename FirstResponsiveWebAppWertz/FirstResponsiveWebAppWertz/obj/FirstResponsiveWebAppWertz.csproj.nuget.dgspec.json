@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj": {}
+    "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj": {
+    "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
+        "projectUniqueName": "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
         "projectName": "FirstResponsiveWebAppWertz",
-        "projectPath": "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
+        "projectPath": "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
         "packagesPath": "C:\\Users\\Snipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\obj\\",
+        "outputPath": "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Snipe\\AppData\\Roaming\\NuGet\\NuGet.Config",

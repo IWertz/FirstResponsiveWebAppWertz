@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstResponsiveWebAppWertz", "FirstResponsiveWebAppWertz\FirstResponsiveWebAppWertz.csproj", "{F95F16C9-6BAF-40E8-A5D1-EC4D541B35D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstResponsiveWebAppWertz", "FirstResponsiveWebAppWertz\FirstResponsiveWebAppWertz.csproj", "{F95F16C9-6BAF-40E8-A5D1-EC4D541B35D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstResponsiveWebAppTests", "FirstResponsiveWebAppTests\FirstResponsiveWebAppTests.csproj", "{24B888D0-0CE5-460A-B5F7-469500D5B50D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F95F16C9-6BAF-40E8-A5D1-EC4D541B35D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F95F16C9-6BAF-40E8-A5D1-EC4D541B35D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F95F16C9-6BAF-40E8-A5D1-EC4D541B35D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B888D0-0CE5-460A-B5F7-469500D5B50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B888D0-0CE5-460A-B5F7-469500D5B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B888D0-0CE5-460A-B5F7-469500D5B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B888D0-0CE5-460A-B5F7-469500D5B50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

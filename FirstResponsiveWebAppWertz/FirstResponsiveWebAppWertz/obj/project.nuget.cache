@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X50krLBmDVOsZB8bJSdSeORlA6iyVxkWJ9MIIatAxs+ArUeXXb8NRgGB3AZ4C/avx4Zd5WGw2wUYT+40cvUy0w==",
+  "dgSpecHash": "+m/b1SDMPEPN6yzJHZ4fe8Uh97A2sIGJcIGEDRgLkkgO1pEatvsW5xUhch++PAasGootKYOt38f9TYN2ktRrEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Snipe\\source\\repos\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
+  "projectFilePath": "C:\\Users\\Snipe\\OneDrive\\Documents\\GitHub\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz\\FirstResponsiveWebAppWertz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Snipe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Snipe\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
